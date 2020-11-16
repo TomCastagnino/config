@@ -1,1 +1,1 @@
-/home/tom/.vimrc
+set number
